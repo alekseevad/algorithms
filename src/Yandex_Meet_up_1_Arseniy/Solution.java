@@ -1,45 +1,46 @@
 package Yandex_Meet_up_1_Arseniy;
 
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 
 public class Solution {
     public static void main(String[] args) {
-        try(FileReader reader = new FileReader("input.txt")) {
+        try(BufferedReader bufferedReader = new BufferedReader(new FileReader("src/Yandex_Meet_up_1_Arseniy/input.txt"))) {
+            String firstLine = bufferedReader.readLine();
+            String[] lineArray = firstLine.split(" ");
 
+            int n = Integer.parseInt(lineArray[0]);
+            int m = Integer.parseInt(lineArray[1]);
+            int size = n * m + 4 + firstLine.length();
+            char[] charBuf = new char[size];
+
+            bufferedReader.read(charBuf, 0, size);
+            String cocktail =String.copyValueOf(charBuf, 0, size);
+
+            int k = Integer.parseInt(bufferedReader.readLine());
+            int prevCount = 0;
+            ++m;
+
+            for(int j = k; j > 0; --j) {
+                String[] toppings = bufferedReader.readLine().split(" ");
+                char c = toppings[2].charAt(0);
+                int count = Integer.parseInt(toppings[1]);
+
+                for(int i = m * (n - prevCount - 1 ) - 1; i >= ((n-1- count - prevCount) * m); --i) {
+                    if(cocktail.charAt(i) == ' ') {
+                        cocktail = cocktail.substring(0, i) + c + cocktail.substring(i + 1);
+                    }
+                }
+                prevCount += count;
+            }
+            BufferedWriter writer = new BufferedWriter(new FileWriter("src/Yandex_Meet_up_1_Arseniy/output.txt"));
+            writer.write(cocktail);
+
+            writer.close();
         }
-        catch (IOException ex){
-
+        catch (IOException ex) {
             System.out.println(ex.getMessage());
         }
-        String koktail = "\\             /" +
-                ".|           |..|           |." +
-                "..\\         /.....|       |..." +
-                "...|       |.......\\     /...." +
-                ".....\\___/.....";
 
-        System.out.println(koktail.length());
-        int n = 8;
-        int m = 15;
-        String output = "";
-        int k1 = 2;
-        int k2 = 5;
-        char c1 = '%';
-        char c2 = '*';
-        System.out.println(output);
-        for (int i = koktail.length() - 1; i >= ((n-1-k1) * m); --i) {
-            if(koktail.charAt(i) == ' ') {
-                koktail = koktail.substring(0, i) + c1 + koktail.substring(i + 1);
-            }
-        }
-        for(int i = koktail.length() - m * (n - k2 - 1 ) - 1; i >= ((n-1-k2 - k1) * m); --i)
-        {
-            if(koktail.charAt(i) == ' ') {
-                koktail = koktail.substring(0, i) + c2 + koktail.substring(i + 1);
-            }
-        }
-        System.out.println(koktail);
+
     }
-
-
 }
