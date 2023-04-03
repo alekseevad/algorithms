@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b28bb03f-e813-4765-b063-f72d99b33eda" name="Changes" comment="yandex meetup">
-      <change afterPath="$PROJECT_DIR$/src/Yandex_Meet_up_1_Arseniy/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Yandex_Meet_up_1_Arseniy/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Yandex_Meet_Up_2_Arseniy/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Yandex_Meet_Up_2_Arseniy/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Yandex_Meet_up_1_Arseniy/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Yandex_Meet_up_1_Arseniy/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +25,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -54,25 +52,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alkse\IdeaProjects\algos_leetcode_codewars\untitled\src\Yandex_Meet_up_1_Arseniy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Yandex_Meet_Up_2_Arseniy.Solution">
     <configuration name="Alg228" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Alg228.Alg228" />
       <module name="untitled" />
@@ -125,8 +124,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Yandex_Meet_Up_2_Arseniy.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Yandex_Meet_Up_2_Arseniy.Solution" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Yandex_Meet_Up_2_Arseniy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Yandex_Meet_Up_2_Arseniy.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Evklid" />
         <item itemvalue="Application.Main" />
@@ -150,7 +163,8 @@
       <workItem from="1680371294583" duration="688000" />
       <workItem from="1680372263353" duration="5822000" />
       <workItem from="1680417135643" duration="18000" />
-      <workItem from="1680445369957" duration="6182000" />
+      <workItem from="1680445369957" duration="6371000" />
+      <workItem from="1680525608279" duration="9955000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1679754912423</created>
@@ -173,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680445687518</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="yandex meetup">
+      <created>1680451668760</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680451668760</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
