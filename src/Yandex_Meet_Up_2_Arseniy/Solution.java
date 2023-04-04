@@ -9,8 +9,14 @@ import java.util.*;
 public class Solution {
     public static void main(String[] args) {
         try(BufferedReader bufferedReader = new BufferedReader(new FileReader("src/Yandex_Meet_Up_2_Arseniy/input.txt"))){
-            bufferedReader.readLine().split(" ");
 
+            String[] firstLine = bufferedReader.readLine().split(" ");
+            long n = Long.parseLong(firstLine[0]);
+            long m = Long.parseLong(firstLine[1]);
+            List<Integer> floorLengths
+            for(long i = 0; i < n; ++i) {
+
+            }
             List<Integer> floorLengths = Arrays.stream(bufferedReader.readLine().split(" "))
                     .map(Integer::parseInt)
                     .toList();
