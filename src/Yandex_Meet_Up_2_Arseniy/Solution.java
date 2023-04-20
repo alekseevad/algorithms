@@ -13,7 +13,6 @@ public class Solution {
             String[] firstLine = bufferedReader.readLine().split(" ");
             long n = Long.parseLong(firstLine[0]);
             long m = Long.parseLong(firstLine[1]);
-            List<Integer> floorLengths
             for(long i = 0; i < n; ++i) {
 
             }
