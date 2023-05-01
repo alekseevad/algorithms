@@ -1,4 +1,4 @@
-package Yandex_Intern_Arseniy.Task1;
+package YandexContestArseniy.Yandex_Intern_Arseniy.Task1;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -9,7 +9,7 @@ import java.util.Objects;
 
 public class Task1 {
     public static void main(String[] args) {
-        try(BufferedReader bufferedReader = new BufferedReader(new FileReader("src/Yandex_Intern_Arseniy/Task1/input.txt"))) {
+        try(BufferedReader bufferedReader = new BufferedReader(new FileReader("src/YandexContestArseniy.Yandex_Intern_Arseniy/Task1/input.txt"))) {
             long N = Long.parseLong(bufferedReader.readLine().split(" ")[0]);
             HashMap<Long, Long> dictionary = new HashMap<>();
             Long[] ids = Arrays.stream(bufferedReader.readLine().split(" "))

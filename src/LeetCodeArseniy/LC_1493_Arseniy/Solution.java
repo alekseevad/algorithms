@@ -1,4 +1,4 @@
-package LC_1493_Arseniy;
+package LeetCodeArseniy.LC_1493_Arseniy;
 
 import java.util.Arrays;
 

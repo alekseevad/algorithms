@@ -1,4 +1,4 @@
-package LC_228_Arseniy;
+package LeetCodeArseniy.LC_228_Arseniy;
 
 public class Main {
     public static void main(String[] args) {

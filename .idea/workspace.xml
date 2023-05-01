@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b28bb03f-e813-4765-b063-f72d99b33eda" name="Changes" comment="yandex meetup">
+    <list default="true" id="b28bb03f-e813-4765-b063-f72d99b33eda" name="Changes" comment="Yandex intern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_Meet_Up_2_Arseniy/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Yandex_Meet_Up_2_Arseniy/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
       <recent name="C:\Users\alkse\IdeaProjects\algos_leetcode_codewars\untitled\src\Yandex_Meet_up_1_Arseniy" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Alg228">
     <configuration name="Alg228" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Alg228.Alg228" />
       <module name="untitled" />
@@ -115,11 +114,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Yandex_Meet_up_1_Arseniy.Solution" />
+      <option name="MAIN_CLASS_NAME" value="YandexContestArseniy.Yandex_Meet_Up_3_Arseniy.Yandex_Meet_up_1_Arseniy.Solution" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Yandex_Meet_up_1_Arseniy.*" />
+          <option name="PATTERN" value="YandexContestArseniy.Yandex_Meet_Up_3_Arseniy.Yandex_Meet_up_1_Arseniy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Yandex_Meet_Up_2_Arseniy.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Yandex_Meet_Up_2_Arseniy.Solution" />
+    <configuration name="YandexContestArseniy.Yandex_Meet_Up_3_Arseniy.Yandex_Meet_Up_2_Arseniy.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YandexContestArseniy.Yandex_Meet_Up_3_Arseniy.Yandex_Meet_Up_2_Arseniy.Solution" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Yandex_Meet_Up_2_Arseniy.*" />
+          <option name="PATTERN" value="YandexContestArseniy.Yandex_Meet_Up_3_Arseniy.Yandex_Meet_Up_2_Arseniy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,7 +141,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Yandex_Meet_Up_2_Arseniy.Solution" />
+        <item itemvalue="Application.YandexContestArseniy.Yandex_Meet_Up_3_Arseniy.Yandex_Meet_Up_2_Arseniy.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Evklid" />
         <item itemvalue="Application.Main" />
@@ -174,7 +173,9 @@
       <workItem from="1681849696548" duration="17000" />
       <workItem from="1681907956211" duration="3571000" />
       <workItem from="1681937326884" duration="21000" />
-      <workItem from="1681970577329" duration="3478000" />
+      <workItem from="1681970577329" duration="3745000" />
+      <workItem from="1682009093096" duration="44000" />
+      <workItem from="1682024269779" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1679754912423</created>
@@ -204,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680451668760</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Yandex intern">
+      <created>1681985111368</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681985111368</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +222,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="Learn" />
     <MESSAGE value="yandex meetup" />
-    <option name="LAST_COMMIT_MESSAGE" value="yandex meetup" />
+    <MESSAGE value="Yandex intern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Yandex intern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

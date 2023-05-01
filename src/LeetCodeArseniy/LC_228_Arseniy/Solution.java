@@ -1,4 +1,4 @@
-package LC_228_Arseniy;
+package LeetCodeArseniy.LC_228_Arseniy;
 
 import java.util.ArrayList;
 import java.util.List;

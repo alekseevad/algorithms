@@ -1,10 +1,10 @@
-package Yandex_Meet_up_1_Arseniy;
+package YandexContestArseniy.Yandex_Meet_up_1_Arseniy;
 
 import java.io.*;
 
 public class Solution {
     public static void main(String[] args) {
-        try(BufferedReader bufferedReader = new BufferedReader(new FileReader("src/Yandex_Meet_up_1_Arseniy/input.txt"))) {
+        try(BufferedReader bufferedReader = new BufferedReader(new FileReader("src/YandexContestArseniy.Yandex_Meet_Up_3_Arseniy.Yandex_Meet_up_1_Arseniy/input.txt"))) {
             String firstLine = bufferedReader.readLine();
             String[] lineArray = firstLine.split(" ");
 
@@ -32,7 +32,7 @@ public class Solution {
                 }
                 prevCount += count;
             }
-            BufferedWriter writer = new BufferedWriter(new FileWriter("src/Yandex_Meet_up_1_Arseniy/output.txt"));
+            BufferedWriter writer = new BufferedWriter(new FileWriter("src/YandexContestArseniy.Yandex_Meet_Up_3_Arseniy.Yandex_Meet_up_1_Arseniy/output.txt"));
             writer.write(cocktail);
 
             writer.close();

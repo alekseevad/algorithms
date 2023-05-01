@@ -1,4 +1,4 @@
-package Yandex_Meet_Up_3_Arseniy;
+package YandexContestArseniy.Yandex_Meet_Up_3_Arseniy;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class Solution {
     public static void main(String[] args) {
-        try(BufferedReader bufferedReader = new BufferedReader(new FileReader("src/Yandex_Meet_Up_3_Arseniy/input.txt"))) {
+        try(BufferedReader bufferedReader = new BufferedReader(new FileReader("src/YandexContestArseniy.Yandex_Meet_Up_3_Arseniy/input.txt"))) {
             Map<Integer, Float> lIndex = new HashMap<>();
             bufferedReader.readLine();
             ArrayList<Integer> line = new ArrayList<>(Arrays.stream(bufferedReader.readLine().split(""))
