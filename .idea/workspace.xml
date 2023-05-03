@@ -4,8 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b28bb03f-e813-4765-b063-f72d99b33eda" name="Changes" comment="Yandex intern">
+    <list default="true" id="b28bb03f-e813-4765-b063-f72d99b33eda" name="Changes" comment="Refactored repository">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Learn/EvklidAlg/Evklid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/Learn/EvklidAlg/Evklid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Learn/FastSort/FastSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/Learn/FastSort/FastSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeArseniy/LC_1493_Arseniy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/LeetCodeArseniy/LC_1493_Arseniy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeArseniy/LC_1493_Arseniy/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/LeetCodeArseniy/LC_1493_Arseniy/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeArseniy/LC_228_Arseniy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/LeetCodeArseniy/LC_228_Arseniy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeArseniy/LC_228_Arseniy/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/LeetCodeArseniy/LC_228_Arseniy/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeArseniy/LC_849_Arseniy/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/LeetCodeArseniy/LC_849_Arseniy/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeArseniy/LC_849_Arseniy/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/LeetCodeArseniy/LC_849_Arseniy/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Intern_Arseniy/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Intern_Arseniy/Task1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Intern_Arseniy/Task1/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Intern_Arseniy/Task1/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Intern_Arseniy/Task1/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Intern_Arseniy/Task1/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Intern_Arseniy/Task2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Intern_Arseniy/Task2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Intern_Arseniy/Task2/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Intern_Arseniy/Task2/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Intern_Arseniy/Task2/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Intern_Arseniy/Task2/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Meet_Up_2_Arseniy/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Meet_Up_2_Arseniy/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Meet_Up_2_Arseniy/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Meet_Up_2_Arseniy/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Meet_Up_2_Arseniy/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Meet_Up_2_Arseniy/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Meet_Up_2_Arseniy/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Meet_Up_2_Arseniy/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Meet_Up_3_Arseniy/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Meet_Up_3_Arseniy/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Meet_Up_3_Arseniy/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Meet_Up_3_Arseniy/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Meet_up_1_Arseniy/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Meet_up_1_Arseniy/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Meet_up_1_Arseniy/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Meet_up_1_Arseniy/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Meet_up_1_Arseniy/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Meet_up_1_Arseniy/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YandexContestArseniy/Yandex_Meet_up_1_Arseniy/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Meet_up_1_Arseniy/package-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +43,7 @@
       <list>
         <option value="package-info" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -31,8 +58,8 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="b7943b84-1be7-4e3d-8ec1-50eb44ef0b0f" />
-        <option name="url" value="https://github.com/alekseevad/algorithms" />
+        <option name="accountId" value="3e50d5b1-b1ef-427e-b377-624a1feb7665" />
+        <option name="url" value="https://github.com/alekseevad/algorithms.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -42,6 +69,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2NSfHKiJZtASU9490N1pqcyhjOG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -50,62 +84,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "java.suggest.annotation.dependency": "false",
+    "last_opened_file_path": "C:/Users/Arseniy/IdeaProjects/algorithms",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Arseniy\IdeaProjects\algorithms\src\main\java" />
+      <recent name="C:\Users\Arseniy\IdeaProjects\algorithms\src\YandexContestArseniy\Yandex_Meet_Up_3_Arseniy" />
       <recent name="C:\Users\Arseniy\IdeaProjects\algorithms\src\Yandex_Intern_Arseniy\Task1" />
       <recent name="C:\Users\Arseniy\IdeaProjects\algorithms\src\Yandex_Intern_Arseniy" />
       <recent name="C:\Users\alkse\IdeaProjects\algos_leetcode_codewars\untitled\src\Yandex_Meet_up_1_Arseniy" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="YandexContestArseniy" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Alg228">
-    <configuration name="Alg228" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Alg228.Alg228" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Alg228.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Evklid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learn.EvklidAlg.Evklid" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Learn.EvklidAlg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestCases.testCase1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Alg1493.Main" />
+      <option name="MAIN_CLASS_NAME" value="ru.alekseev.LeetCodeArseniy.LC_228_Arseniy.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Alg1493.*" />
+          <option name="PATTERN" value="ru.alekseev.LeetCodeArseniy.LC_228_Arseniy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,13 +158,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ru.alekseev.LeetCodeArseniy.LC_849_Arseniy.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.alekseev.LeetCodeArseniy.LC_849_Arseniy.Solution" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.alekseev.LeetCodeArseniy.LC_849_Arseniy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.testCase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alekseev-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.alekseev.algorithms.LC_3_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.alekseev.algorithms.LC_3_Test" />
+      <option name="MAIN_CLASS_NAME" value="ru.alekseev.algorithms.LC_3_Test.TestCases" />
+      <option name="METHOD_NAME" value="testCase1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestCases.testCase1" />
+        <item itemvalue="Application.ru.alekseev.LeetCodeArseniy.LC_849_Arseniy.Solution" />
         <item itemvalue="Application.YandexContestArseniy.Yandex_Meet_Up_3_Arseniy.Yandex_Meet_Up_2_Arseniy.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Evklid" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Alg228" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +223,9 @@
       <workItem from="1681970577329" duration="3745000" />
       <workItem from="1682009093096" duration="44000" />
       <workItem from="1682024269779" duration="10000" />
+      <workItem from="1682965114954" duration="1336000" />
+      <workItem from="1682967902255" duration="6496000" />
+      <workItem from="1683102559547" duration="9246000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1679754912423</created>
@@ -212,26 +262,55 @@
       <option name="project" value="LOCAL" />
       <updated>1681985111368</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Refactored repository">
+      <created>1682965384767</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682965384767</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="Learn" />
     <MESSAGE value="yandex meetup" />
     <MESSAGE value="Yandex intern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Yandex intern" />
+    <MESSAGE value="Refactored repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored repository" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Yandex_Intern_Arseniy/Task2/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/ru/alekseev/YandexContestArseniy/Yandex_Intern_Arseniy/Task2/Solution.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/alekseev/LeetCodeArseniy/LC_228_Arseniy/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/alekseev/algorithms/LC_3_Test/TestCases.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
